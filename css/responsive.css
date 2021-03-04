@@ -1,0 +1,225 @@
+@media(max-width: 1400px){
+    .device-img {
+    max-width: 85%;
+}
+  .card-footer p {
+    padding: 15px;
+} 
+.contact-form {
+    padding: 30px 30px 40px;
+    
+}
+.form-control {
+    padding: 11px 10px;
+}
+}
+
+@media(max-width: 1200px){
+  .banner-content h1 {
+    font-size: 38px;
+    padding: 25px 0;
+}
+.banner-content p {
+    font-size: 16px;
+    
+}
+.feature-box p {
+    font-size: 16px;
+    
+}
+.device {
+    padding: 10px 0 70px;
+}
+.device-img {
+    margin-top: 85px;
+}
+
+.cust-img{
+    margin-top:40px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+     width: 5%;
+    
+}
+.t-box p {
+    margin: 35px 0;    
+}
+.like-content h2 {
+    font-size: 29px;
+
+}
+.contact-form {
+    padding: 40px 30px 40px;
+    
+}
+    
+}
+
+@media(max-width: 991px){
+.banner-content {
+    padding: 0 0 0 0;
+}
+.banner-img {
+    margin-top: 160px;
+    max-width: 100%;
+}
+.feature-box {
+    margin-top: 70px;
+}
+.feature-content h2 {
+    font-size: 29px;
+    
+}
+.device-content p {
+    font-size: 16px;
+    margin: 25px 0 30px;
+}
+.device-content ul li h6 {
+    padding: 0px 10px;
+    
+}
+.device-img {
+    max-width: 100%;
+    margin-top:95px;
+}
+.cust-img {
+    margin-top: 70px;
+}
+.carousel-item {
+    min-height: 430px;
+}
+.like-content h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.nav {
+    margin: auto;
+    display:table ;
+}
+.card {
+    margin: 70px 15px 30px;
+        
+}
+.form-control {
+    padding: 10px 10px;
+
+}
+.contact-form {
+    padding: 30px 30px 40px;
+    
+}
+}
+
+
+@media(max-width: 767px){
+.banner-content {
+    text-align: center;
+}
+.banner-img {
+    max-width: 80%;
+}
+.device-img {
+    max-width: 70%;
+    margin-top: 0px;
+}
+.device-content {
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+.device-content span {
+    margin: auto;
+}
+.carousel-item {
+    min-height: 650px;
+}
+.card-header {
+    font-size: 20px;
+}
+.card-title {
+    font-size: 30px;
+}
+.card-body {
+    padding: 10px 0;
+    
+}
+.card-footer {
+    padding: 4px;
+}
+.form-control {
+    margin: 10px 0;
+}
+
+
+}
+
+@media(max-width: 577px){
+.banner-content {
+    padding: 0 25px;
+}
+.feature-box {
+    padding: 0 90px;
+}
+.device-content {
+    padding: 50px 25px 0;
+}
+.customize {
+    padding: 10px 0;
+}
+.carousel-item {
+    min-height: 730px;
+}
+.t-box span {
+    text-align: center;
+    margin-top:10px;
+}
+.t-box h5{
+    text-align: center;
+}
+.testimonial {
+    padding: 0 0;
+    
+}
+.card {
+    margin: 20px 15px 30px;
+       
+}
+.contact-top {
+    padding: 20px 0 0px;
+}
+.contact-form {
+    padding: 50px 10px 40px;
+    
+}
+}
+
+@media(max-width: 524px){
+.carousel-item {
+    min-height: 800px;
+}
+.feature-box {
+    padding: 0 20px;
+}
+.banner-img {
+    margin-top: 80px;
+    max-width: 100%;
+}
+.button {
+    margin-bottom: 20px;
+}
+.banner{
+    padding: 50px 0 0;
+}
+
+}
+@media(max-width: 430px){
+.carousel-item {
+    min-height: 880px;
+}
+}
+
+@media(max-width: 379px){
+.carousel-item {
+    min-height: 1000px;
+}
+}
